@@ -1,5 +1,5 @@
 _repo: The-Desert-Trail_52358
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrators:
   - agent_name: Duer, Douglas
@@ -10,6 +10,9 @@ contributor:
   - agent_name: Monahan, P. J.
     gutenberg_agent_id: '46811'
     url: http://www.gutenberg.org/2009/agents/46811
+covers:
+- cover_type: archival
+  image_path: 52358-h/images/cover.jpg
 creator:
   author:
     agent_name: Coolidge, Dane
@@ -18,6 +21,8 @@ creator:
     gutenberg_agent_id: '9069'
     url: http://www.gutenberg.org/2009/agents/9069
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52358#The-Desert-Trail
 gutenberg_issued: '2016-06-17'
 gutenberg_type: Text
 identifiers:
